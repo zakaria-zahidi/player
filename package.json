@@ -19,7 +19,6 @@
     "prepublish": "npm run snyk-protect"
   },
   "files": [
-    "index.js",
     "readme.md"
   ],
   "keywords": [
